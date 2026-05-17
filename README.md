@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="screenshots/banner.svg" alt="CureShare BMS" width="100%"/>
+<img src="screenshots/banner.png" alt="CureShare BMS" width="100%"/>
 
 <br/><br/>
 
